@@ -3,21 +3,21 @@
   {
    "cell_type": "code",
    "execution_count": 1,
-   "id": "7ca17c33",
+   "id": "3dbdfa52",
    "metadata": {
     "_cell_guid": "b1076dfc-b9ad-4769-8c92-a6c4dae69d19",
     "_uuid": "8f2839f25d086af736a60e9eeb907d3b93b6e0e5",
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:03:53.726222Z",
-     "iopub.status.busy": "2025-01-15T07:03:53.725813Z",
-     "iopub.status.idle": "2025-01-15T07:03:54.708183Z",
-     "shell.execute_reply": "2025-01-15T07:03:54.706737Z"
+     "iopub.execute_input": "2025-01-16T01:51:26.792583Z",
+     "iopub.status.busy": "2025-01-16T01:51:26.792100Z",
+     "iopub.status.idle": "2025-01-16T01:51:27.755826Z",
+     "shell.execute_reply": "2025-01-16T01:51:27.754390Z"
     },
     "papermill": {
-     "duration": 0.99172,
-     "end_time": "2025-01-15T07:03:54.710254",
+     "duration": 0.974262,
+     "end_time": "2025-01-16T01:51:27.758140",
      "exception": false,
-     "start_time": "2025-01-15T07:03:53.718534",
+     "start_time": "2025-01-16T01:51:26.783878",
      "status": "completed"
     },
     "tags": []
@@ -56,19 +56,19 @@
   {
    "cell_type": "code",
    "execution_count": 2,
-   "id": "4c94d539",
+   "id": "a553cf4c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:03:54.723485Z",
-     "iopub.status.busy": "2025-01-15T07:03:54.723001Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.143421Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.142074Z"
+     "iopub.execute_input": "2025-01-16T01:51:27.782956Z",
+     "iopub.status.busy": "2025-01-16T01:51:27.782459Z",
+     "iopub.status.idle": "2025-01-16T01:51:40.854020Z",
+     "shell.execute_reply": "2025-01-16T01:51:40.852718Z"
     },
     "papermill": {
-     "duration": 12.429088,
-     "end_time": "2025-01-15T07:04:07.145710",
+     "duration": 13.086003,
+     "end_time": "2025-01-16T01:51:40.856329",
      "exception": false,
-     "start_time": "2025-01-15T07:03:54.716622",
+     "start_time": "2025-01-16T01:51:27.770326",
      "status": "completed"
     },
     "tags": []
@@ -99,13 +99,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "574af9c7",
+   "id": "1d590b0a",
    "metadata": {
     "papermill": {
-     "duration": 0.005218,
-     "end_time": "2025-01-15T07:04:07.156724",
+     "duration": 0.005791,
+     "end_time": "2025-01-16T01:51:40.869864",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.151506",
+     "start_time": "2025-01-16T01:51:40.864073",
      "status": "completed"
     },
     "tags": []
@@ -117,19 +117,19 @@
   {
    "cell_type": "code",
    "execution_count": 3,
-   "id": "1aeb81fb",
+   "id": "fbee1d39",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:07.170346Z",
-     "iopub.status.busy": "2025-01-15T07:04:07.169637Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.652446Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.651390Z"
+     "iopub.execute_input": "2025-01-16T01:51:40.884116Z",
+     "iopub.status.busy": "2025-01-16T01:51:40.883491Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.379347Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.378251Z"
     },
     "papermill": {
-     "duration": 0.491686,
-     "end_time": "2025-01-15T07:04:07.654699",
+     "duration": 0.505502,
+     "end_time": "2025-01-16T01:51:41.381413",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.163013",
+     "start_time": "2025-01-16T01:51:40.875911",
      "status": "completed"
     },
     "tags": []
@@ -144,19 +144,19 @@
   {
    "cell_type": "code",
    "execution_count": 4,
-   "id": "63381112",
+   "id": "087d8634",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:07.668733Z",
-     "iopub.status.busy": "2025-01-15T07:04:07.668372Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.691374Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.690218Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.395152Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.394712Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.417132Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.416019Z"
     },
     "papermill": {
-     "duration": 0.031503,
-     "end_time": "2025-01-15T07:04:07.693409",
+     "duration": 0.031046,
+     "end_time": "2025-01-16T01:51:41.418813",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.661906",
+     "start_time": "2025-01-16T01:51:41.387767",
      "status": "completed"
     },
     "tags": []
@@ -262,19 +262,19 @@
   {
    "cell_type": "code",
    "execution_count": 5,
-   "id": "0452fccc",
+   "id": "0f19ac67",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:07.706043Z",
-     "iopub.status.busy": "2025-01-15T07:04:07.705663Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.711438Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.710405Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.432650Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.432251Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.438037Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.437039Z"
     },
     "papermill": {
-     "duration": 0.013882,
-     "end_time": "2025-01-15T07:04:07.713123",
+     "duration": 0.014487,
+     "end_time": "2025-01-16T01:51:41.439693",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.699241",
+     "start_time": "2025-01-16T01:51:41.425206",
      "status": "completed"
     },
     "tags": []
@@ -298,19 +298,19 @@
   {
    "cell_type": "code",
    "execution_count": 6,
-   "id": "592eadb3",
+   "id": "ae7ec24c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:07.726158Z",
-     "iopub.status.busy": "2025-01-15T07:04:07.725736Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.732046Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.731012Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.453998Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.453644Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.459465Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.458384Z"
     },
     "papermill": {
-     "duration": 0.014912,
-     "end_time": "2025-01-15T07:04:07.733929",
+     "duration": 0.015188,
+     "end_time": "2025-01-16T01:51:41.461356",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.719017",
+     "start_time": "2025-01-16T01:51:41.446168",
      "status": "completed"
     },
     "tags": []
@@ -334,19 +334,19 @@
   {
    "cell_type": "code",
    "execution_count": 7,
-   "id": "8e033fbb",
+   "id": "7e2e6fcc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:07.748177Z",
-     "iopub.status.busy": "2025-01-15T07:04:07.747730Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.787048Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.785747Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.475399Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.475021Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.514692Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.513605Z"
     },
     "papermill": {
-     "duration": 0.048692,
-     "end_time": "2025-01-15T07:04:07.789100",
+     "duration": 0.048918,
+     "end_time": "2025-01-16T01:51:41.516717",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.740408",
+     "start_time": "2025-01-16T01:51:41.467799",
      "status": "completed"
     },
     "tags": []
@@ -446,19 +446,19 @@
   {
    "cell_type": "code",
    "execution_count": 8,
-   "id": "09c57235",
+   "id": "ddf9a67d",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:07.804315Z",
-     "iopub.status.busy": "2025-01-15T07:04:07.803854Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.873239Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.871610Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.532463Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.532039Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.597636Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.596436Z"
     },
     "papermill": {
-     "duration": 0.078837,
-     "end_time": "2025-01-15T07:04:07.875366",
+     "duration": 0.074922,
+     "end_time": "2025-01-16T01:51:41.599358",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.796529",
+     "start_time": "2025-01-16T01:51:41.524436",
      "status": "completed"
     },
     "tags": []
@@ -490,13 +490,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "e4da47f0",
+   "id": "6e0301b0",
    "metadata": {
     "papermill": {
-     "duration": 0.006534,
-     "end_time": "2025-01-15T07:04:07.888324",
+     "duration": 0.00659,
+     "end_time": "2025-01-16T01:51:41.612609",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.881790",
+     "start_time": "2025-01-16T01:51:41.606019",
      "status": "completed"
     },
     "tags": []
@@ -508,19 +508,19 @@
   {
    "cell_type": "code",
    "execution_count": 9,
-   "id": "f582cbc4",
+   "id": "33814859",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:07.902939Z",
-     "iopub.status.busy": "2025-01-15T07:04:07.902531Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.954287Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.953008Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.626622Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.626216Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.676640Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.675554Z"
     },
     "papermill": {
-     "duration": 0.06106,
-     "end_time": "2025-01-15T07:04:07.956296",
+     "duration": 0.059555,
+     "end_time": "2025-01-16T01:51:41.678446",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.895236",
+     "start_time": "2025-01-16T01:51:41.618891",
      "status": "completed"
     },
     "tags": []
@@ -550,19 +550,19 @@
   {
    "cell_type": "code",
    "execution_count": 10,
-   "id": "8e017fe9",
+   "id": "857b75e8",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:07.970627Z",
-     "iopub.status.busy": "2025-01-15T07:04:07.970240Z",
-     "iopub.status.idle": "2025-01-15T07:04:07.996636Z",
-     "shell.execute_reply": "2025-01-15T07:04:07.995538Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.693627Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.693126Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.718836Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.717860Z"
     },
     "papermill": {
-     "duration": 0.035687,
-     "end_time": "2025-01-15T07:04:07.998538",
+     "duration": 0.035204,
+     "end_time": "2025-01-16T01:51:41.720607",
      "exception": false,
-     "start_time": "2025-01-15T07:04:07.962851",
+     "start_time": "2025-01-16T01:51:41.685403",
      "status": "completed"
     },
     "tags": []
@@ -591,19 +591,19 @@
   {
    "cell_type": "code",
    "execution_count": 11,
-   "id": "e8b5c46c",
+   "id": "559395d5",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.013428Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.013067Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.240506Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.239502Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.735414Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.734966Z",
+     "iopub.status.idle": "2025-01-16T01:51:41.963744Z",
+     "shell.execute_reply": "2025-01-16T01:51:41.962387Z"
     },
     "papermill": {
-     "duration": 0.23696,
-     "end_time": "2025-01-15T07:04:08.242255",
+     "duration": 0.238622,
+     "end_time": "2025-01-16T01:51:41.965973",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.005295",
+     "start_time": "2025-01-16T01:51:41.727351",
      "status": "completed"
     },
     "tags": []
@@ -635,19 +635,19 @@
   {
    "cell_type": "code",
    "execution_count": 12,
-   "id": "ca25ef06",
+   "id": "c9d7dd41",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.256817Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.256438Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.454616Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.453223Z"
+     "iopub.execute_input": "2025-01-16T01:51:41.981879Z",
+     "iopub.status.busy": "2025-01-16T01:51:41.981467Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.175968Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.174678Z"
     },
     "papermill": {
-     "duration": 0.207915,
-     "end_time": "2025-01-15T07:04:08.456771",
+     "duration": 0.204233,
+     "end_time": "2025-01-16T01:51:42.177741",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.248856",
+     "start_time": "2025-01-16T01:51:41.973508",
      "status": "completed"
     },
     "tags": []
@@ -821,19 +821,19 @@
   {
    "cell_type": "code",
    "execution_count": 13,
-   "id": "ba76a870",
+   "id": "6a99dcb3",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.472410Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.471993Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.496135Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.494147Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.193552Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.193146Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.215635Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.214404Z"
     },
     "papermill": {
-     "duration": 0.034617,
-     "end_time": "2025-01-15T07:04:08.498478",
+     "duration": 0.032489,
+     "end_time": "2025-01-16T01:51:42.217599",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.463861",
+     "start_time": "2025-01-16T01:51:42.185110",
      "status": "completed"
     },
     "tags": []
@@ -866,19 +866,19 @@
   {
    "cell_type": "code",
    "execution_count": 14,
-   "id": "0315cc81",
+   "id": "d10dfabc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.515209Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.514699Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.526255Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.525189Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.233927Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.233584Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.243490Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.242382Z"
     },
     "papermill": {
-     "duration": 0.021436,
-     "end_time": "2025-01-15T07:04:08.528007",
+     "duration": 0.020305,
+     "end_time": "2025-01-16T01:51:42.245155",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.506571",
+     "start_time": "2025-01-16T01:51:42.224850",
      "status": "completed"
     },
     "tags": []
@@ -977,13 +977,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "ca9a3e11",
+   "id": "9fa43441",
    "metadata": {
     "papermill": {
-     "duration": 0.007216,
-     "end_time": "2025-01-15T07:04:08.543065",
+     "duration": 0.007033,
+     "end_time": "2025-01-16T01:51:42.259533",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.535849",
+     "start_time": "2025-01-16T01:51:42.252500",
      "status": "completed"
     },
     "tags": []
@@ -995,19 +995,19 @@
   {
    "cell_type": "code",
    "execution_count": 15,
-   "id": "d9e6689e",
+   "id": "d4ef3661",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.558713Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.558340Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.581219Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.580048Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.275712Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.275356Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.296355Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.295051Z"
     },
     "papermill": {
-     "duration": 0.032945,
-     "end_time": "2025-01-15T07:04:08.583241",
+     "duration": 0.031162,
+     "end_time": "2025-01-16T01:51:42.298030",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.550296",
+     "start_time": "2025-01-16T01:51:42.266868",
      "status": "completed"
     },
     "tags": []
@@ -1147,19 +1147,19 @@
   {
    "cell_type": "code",
    "execution_count": 16,
-   "id": "ac6174b6",
+   "id": "ae99e74c",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.600258Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.599805Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.637486Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.636314Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.314861Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.314490Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.351667Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.350609Z"
     },
     "papermill": {
-     "duration": 0.048298,
-     "end_time": "2025-01-15T07:04:08.639554",
+     "duration": 0.04812,
+     "end_time": "2025-01-16T01:51:42.353861",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.591256",
+     "start_time": "2025-01-16T01:51:42.305741",
      "status": "completed"
     },
     "tags": []
@@ -1174,19 +1174,19 @@
   {
    "cell_type": "code",
    "execution_count": 17,
-   "id": "60c4908d",
+   "id": "f2955fc9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.655821Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.655480Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.664896Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.663830Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.370348Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.369882Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.379926Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.379069Z"
     },
     "papermill": {
-     "duration": 0.019836,
-     "end_time": "2025-01-15T07:04:08.666940",
+     "duration": 0.020272,
+     "end_time": "2025-01-16T01:51:42.381860",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.647104",
+     "start_time": "2025-01-16T01:51:42.361588",
      "status": "completed"
     },
     "tags": []
@@ -1205,19 +1205,19 @@
   {
    "cell_type": "code",
    "execution_count": 18,
-   "id": "31767bc4",
+   "id": "efe1f2c9",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.683237Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.682804Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.688760Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.687781Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.398277Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.397927Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.403550Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.402627Z"
     },
     "papermill": {
-     "duration": 0.016114,
-     "end_time": "2025-01-15T07:04:08.690575",
+     "duration": 0.015385,
+     "end_time": "2025-01-16T01:51:42.404988",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.674461",
+     "start_time": "2025-01-16T01:51:42.389603",
      "status": "completed"
     },
     "tags": []
@@ -1240,13 +1240,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "38fbd711",
+   "id": "b1e4b25b",
    "metadata": {
     "papermill": {
-     "duration": 0.007248,
-     "end_time": "2025-01-15T07:04:08.705671",
+     "duration": 0.009484,
+     "end_time": "2025-01-16T01:51:42.422109",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.698423",
+     "start_time": "2025-01-16T01:51:42.412625",
      "status": "completed"
     },
     "tags": []
@@ -1258,19 +1258,19 @@
   {
    "cell_type": "code",
    "execution_count": 19,
-   "id": "e5bee6cb",
+   "id": "1223a137",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.721991Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.721594Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.848449Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.847466Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.438468Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.438002Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.546963Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.545824Z"
     },
     "papermill": {
-     "duration": 0.137208,
-     "end_time": "2025-01-15T07:04:08.850340",
+     "duration": 0.118938,
+     "end_time": "2025-01-16T01:51:42.548645",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.713132",
+     "start_time": "2025-01-16T01:51:42.429707",
      "status": "completed"
     },
     "tags": []
@@ -1295,13 +1295,11 @@
        "<pre style=\"white-space:pre;overflow-x:auto;line-height:normal;font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace\">┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓\n",
        "┃<span style=\"font-weight: bold\"> Layer (type)                         </span>┃<span style=\"font-weight: bold\"> Output Shape                </span>┃<span style=\"font-weight: bold\">         Param # </span>┃\n",
        "┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩\n",
-       "│ dense (<span style=\"color: #0087ff; text-decoration-color: #0087ff\">Dense</span>)                        │ (<span style=\"color: #00d7ff; text-decoration-color: #00d7ff\">None</span>, <span style=\"color: #00af00; text-decoration-color: #00af00\">1024</span>)                │           <span style=\"color: #00af00; text-decoration-color: #00af00\">4,096</span> │\n",
+       "│ dense (<span style=\"color: #0087ff; text-decoration-color: #0087ff\">Dense</span>)                        │ (<span style=\"color: #00d7ff; text-decoration-color: #00d7ff\">None</span>, <span style=\"color: #00af00; text-decoration-color: #00af00\">512</span>)                 │           <span style=\"color: #00af00; text-decoration-color: #00af00\">2,048</span> │\n",
        "├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤\n",
-       "│ dense_1 (<span style=\"color: #0087ff; text-decoration-color: #0087ff\">Dense</span>)                      │ (<span style=\"color: #00d7ff; text-decoration-color: #00d7ff\">None</span>, <span style=\"color: #00af00; text-decoration-color: #00af00\">256</span>)                 │         <span style=\"color: #00af00; text-decoration-color: #00af00\">262,400</span> │\n",
+       "│ dense_1 (<span style=\"color: #0087ff; text-decoration-color: #0087ff\">Dense</span>)                      │ (<span style=\"color: #00d7ff; text-decoration-color: #00d7ff\">None</span>, <span style=\"color: #00af00; text-decoration-color: #00af00\">256</span>)                 │         <span style=\"color: #00af00; text-decoration-color: #00af00\">131,328</span> │\n",
        "├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤\n",
-       "│ dense_2 (<span style=\"color: #0087ff; text-decoration-color: #0087ff\">Dense</span>)                      │ (<span style=\"color: #00d7ff; text-decoration-color: #00d7ff\">None</span>, <span style=\"color: #00af00; text-decoration-color: #00af00\">128</span>)                 │          <span style=\"color: #00af00; text-decoration-color: #00af00\">32,896</span> │\n",
-       "├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤\n",
-       "│ dense_3 (<span style=\"color: #0087ff; text-decoration-color: #0087ff\">Dense</span>)                      │ (<span style=\"color: #00d7ff; text-decoration-color: #00d7ff\">None</span>, <span style=\"color: #00af00; text-decoration-color: #00af00\">1</span>)                   │             <span style=\"color: #00af00; text-decoration-color: #00af00\">129</span> │\n",
+       "│ dense_2 (<span style=\"color: #0087ff; text-decoration-color: #0087ff\">Dense</span>)                      │ (<span style=\"color: #00d7ff; text-decoration-color: #00d7ff\">None</span>, <span style=\"color: #00af00; text-decoration-color: #00af00\">1</span>)                   │             <span style=\"color: #00af00; text-decoration-color: #00af00\">257</span> │\n",
        "└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘\n",
        "</pre>\n"
       ],
@@ -1309,13 +1307,11 @@
        "┏━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━━━━━━━━━━━━━┳━━━━━━━━━━━━━━━━━┓\n",
        "┃\u001b[1m \u001b[0m\u001b[1mLayer (type)                        \u001b[0m\u001b[1m \u001b[0m┃\u001b[1m \u001b[0m\u001b[1mOutput Shape               \u001b[0m\u001b[1m \u001b[0m┃\u001b[1m \u001b[0m\u001b[1m        Param #\u001b[0m\u001b[1m \u001b[0m┃\n",
        "┡━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━━━━━━━━━━━━━╇━━━━━━━━━━━━━━━━━┩\n",
-       "│ dense (\u001b[38;5;33mDense\u001b[0m)                        │ (\u001b[38;5;45mNone\u001b[0m, \u001b[38;5;34m1024\u001b[0m)                │           \u001b[38;5;34m4,096\u001b[0m │\n",
+       "│ dense (\u001b[38;5;33mDense\u001b[0m)                        │ (\u001b[38;5;45mNone\u001b[0m, \u001b[38;5;34m512\u001b[0m)                 │           \u001b[38;5;34m2,048\u001b[0m │\n",
        "├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤\n",
-       "│ dense_1 (\u001b[38;5;33mDense\u001b[0m)                      │ (\u001b[38;5;45mNone\u001b[0m, \u001b[38;5;34m256\u001b[0m)                 │         \u001b[38;5;34m262,400\u001b[0m │\n",
+       "│ dense_1 (\u001b[38;5;33mDense\u001b[0m)                      │ (\u001b[38;5;45mNone\u001b[0m, \u001b[38;5;34m256\u001b[0m)                 │         \u001b[38;5;34m131,328\u001b[0m │\n",
        "├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤\n",
-       "│ dense_2 (\u001b[38;5;33mDense\u001b[0m)                      │ (\u001b[38;5;45mNone\u001b[0m, \u001b[38;5;34m128\u001b[0m)                 │          \u001b[38;5;34m32,896\u001b[0m │\n",
-       "├──────────────────────────────────────┼─────────────────────────────┼─────────────────┤\n",
-       "│ dense_3 (\u001b[38;5;33mDense\u001b[0m)                      │ (\u001b[38;5;45mNone\u001b[0m, \u001b[38;5;34m1\u001b[0m)                   │             \u001b[38;5;34m129\u001b[0m │\n",
+       "│ dense_2 (\u001b[38;5;33mDense\u001b[0m)                      │ (\u001b[38;5;45mNone\u001b[0m, \u001b[38;5;34m1\u001b[0m)                   │             \u001b[38;5;34m257\u001b[0m │\n",
        "└──────────────────────────────────────┴─────────────────────────────┴─────────────────┘\n"
       ]
      },
@@ -1325,11 +1321,11 @@
     {
      "data": {
       "text/html": [
-       "<pre style=\"white-space:pre;overflow-x:auto;line-height:normal;font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace\"><span style=\"font-weight: bold\"> Total params: </span><span style=\"color: #00af00; text-decoration-color: #00af00\">299,521</span> (1.14 MB)\n",
+       "<pre style=\"white-space:pre;overflow-x:auto;line-height:normal;font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace\"><span style=\"font-weight: bold\"> Total params: </span><span style=\"color: #00af00; text-decoration-color: #00af00\">133,633</span> (522.00 KB)\n",
        "</pre>\n"
       ],
       "text/plain": [
-       "\u001b[1m Total params: \u001b[0m\u001b[38;5;34m299,521\u001b[0m (1.14 MB)\n"
+       "\u001b[1m Total params: \u001b[0m\u001b[38;5;34m133,633\u001b[0m (522.00 KB)\n"
       ]
      },
      "metadata": {},
@@ -1338,11 +1334,11 @@
     {
      "data": {
       "text/html": [
-       "<pre style=\"white-space:pre;overflow-x:auto;line-height:normal;font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace\"><span style=\"font-weight: bold\"> Trainable params: </span><span style=\"color: #00af00; text-decoration-color: #00af00\">299,521</span> (1.14 MB)\n",
+       "<pre style=\"white-space:pre;overflow-x:auto;line-height:normal;font-family:Menlo,'DejaVu Sans Mono',consolas,'Courier New',monospace\"><span style=\"font-weight: bold\"> Trainable params: </span><span style=\"color: #00af00; text-decoration-color: #00af00\">133,633</span> (522.00 KB)\n",
        "</pre>\n"
       ],
       "text/plain": [
-       "\u001b[1m Trainable params: \u001b[0m\u001b[38;5;34m299,521\u001b[0m (1.14 MB)\n"
+       "\u001b[1m Trainable params: \u001b[0m\u001b[38;5;34m133,633\u001b[0m (522.00 KB)\n"
       ]
      },
      "metadata": {},
@@ -1370,11 +1366,9 @@
     "model.add(Input(shape=(X_train.shape[1],)))\n",
     "\n",
     "# Add Dense layers with Xavier initialization and Dropout for regularization\n",
-    "model.add(Dense(1024, activation='relu', kernel_initializer=glorot_uniform(), kernel_regularizer=l2(0.1)))\n",
+    "model.add(Dense(512, activation='relu', kernel_initializer=glorot_uniform(), kernel_regularizer=l2(0.1)))\n",
     "#model.add(Dropout(0.5))  \n",
     "model.add(Dense(256, activation='relu', kernel_regularizer=l2(0.1), kernel_initializer=glorot_uniform()))\n",
-    "#model.add(Dropout(0.5))  \n",
-    "model.add(Dense(128, activation='relu', kernel_regularizer=l2(0.1), kernel_initializer=glorot_uniform()))\n",
     "#model.add(Dropout(0.5))  \n",
     "\n",
     "# Output layer for binary classification\n",
@@ -1386,13 +1380,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "93613205",
+   "id": "01f396ab",
    "metadata": {
     "papermill": {
-     "duration": 0.008,
-     "end_time": "2025-01-15T07:04:08.868005",
+     "duration": 0.007897,
+     "end_time": "2025-01-16T01:51:42.565167",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.860005",
+     "start_time": "2025-01-16T01:51:42.557270",
      "status": "completed"
     },
     "tags": []
@@ -1404,19 +1398,19 @@
   {
    "cell_type": "code",
    "execution_count": 20,
-   "id": "5bca02fb",
+   "id": "6fef4adc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.886244Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.885854Z",
-     "iopub.status.idle": "2025-01-15T07:04:08.901417Z",
-     "shell.execute_reply": "2025-01-15T07:04:08.900473Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.582847Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.582472Z",
+     "iopub.status.idle": "2025-01-16T01:51:42.597816Z",
+     "shell.execute_reply": "2025-01-16T01:51:42.596413Z"
     },
     "papermill": {
-     "duration": 0.027096,
-     "end_time": "2025-01-15T07:04:08.903419",
+     "duration": 0.026876,
+     "end_time": "2025-01-16T01:51:42.600129",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.876323",
+     "start_time": "2025-01-16T01:51:42.573253",
      "status": "completed"
     },
     "tags": []
@@ -1434,505 +1428,44 @@
   {
    "cell_type": "code",
    "execution_count": 21,
-   "id": "df6feafd",
+   "id": "fe41d317",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T07:04:08.922473Z",
-     "iopub.status.busy": "2025-01-15T07:04:08.922086Z",
-     "iopub.status.idle": "2025-01-15T08:50:03.347337Z",
-     "shell.execute_reply": "2025-01-15T08:50:03.345982Z"
+     "iopub.execute_input": "2025-01-16T01:51:42.618257Z",
+     "iopub.status.busy": "2025-01-16T01:51:42.617864Z",
+     "iopub.status.idle": "2025-01-16T07:03:04.447773Z",
+     "shell.execute_reply": "2025-01-16T07:03:04.446421Z"
     },
     "papermill": {
-     "duration": 6354.437264,
-     "end_time": "2025-01-15T08:50:03.349530",
+     "duration": 18681.842181,
+     "end_time": "2025-01-16T07:03:04.450873",
      "exception": false,
-     "start_time": "2025-01-15T07:04:08.912266",
+     "start_time": "2025-01-16T01:51:42.608692",
      "status": "completed"
     },
     "tags": []
    },
-   "outputs": [
-    {
-     "name": "stdout",
-     "output_type": "stream",
-     "text": [
-      "Epoch 1/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 219633.2188 - val_loss: 39403.0977 - learning_rate: 0.0100\n",
-      "Epoch 2/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 41274.8203 - val_loss: 37729.7656 - learning_rate: 0.0100\n",
-      "Epoch 3/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 38082.6680 - val_loss: 35654.5859 - learning_rate: 0.0100\n",
-      "Epoch 4/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 37161.6953 - val_loss: 36142.3984 - learning_rate: 0.0100\n",
-      "Epoch 5/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 36742.3789 - val_loss: 35887.6094 - learning_rate: 0.0100\n",
-      "Epoch 6/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 35615.8008 - val_loss: 35023.2539 - learning_rate: 0.0100\n",
-      "Epoch 7/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 35836.3047 - val_loss: 36876.7422 - learning_rate: 0.0100\n",
-      "Epoch 8/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 35433.5898 - val_loss: 36859.3477 - learning_rate: 0.0100\n",
-      "Epoch 9/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 35148.6602 - val_loss: 37085.1367 - learning_rate: 0.0100\n",
-      "Epoch 10/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 35338.0703 - val_loss: 36261.5820 - learning_rate: 0.0100\n",
-      "Epoch 11/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 35019.9141 - val_loss: 37021.3281 - learning_rate: 0.0100\n",
-      "Epoch 12/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 35149.4297 - val_loss: 34326.7266 - learning_rate: 0.0100\n",
-      "Epoch 13/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34459.6914 - val_loss: 35565.1836 - learning_rate: 0.0100\n",
-      "Epoch 14/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34934.4922 - val_loss: 34097.1602 - learning_rate: 0.0100\n",
-      "Epoch 15/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 34409.2734 - val_loss: 35204.0586 - learning_rate: 0.0100\n",
-      "Epoch 16/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34961.4180 - val_loss: 35019.2969 - learning_rate: 0.0100\n",
-      "Epoch 17/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 34566.8555 - val_loss: 34329.0859 - learning_rate: 0.0100\n",
-      "Epoch 18/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 34227.7383 - val_loss: 34602.3008 - learning_rate: 0.0100\n",
-      "Epoch 19/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34091.8477 - val_loss: 34945.1289 - learning_rate: 0.0100\n",
-      "Epoch 20/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34821.5508 - val_loss: 34166.7148 - learning_rate: 0.0100\n",
-      "Epoch 21/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34563.9336 - val_loss: 34586.0781 - learning_rate: 0.0100\n",
-      "Epoch 22/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34520.8281 - val_loss: 35416.1016 - learning_rate: 0.0100\n",
-      "Epoch 23/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 34412.0977 - val_loss: 34465.9883 - learning_rate: 0.0100\n",
-      "Epoch 24/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34583.0352 - val_loss: 34598.3125 - learning_rate: 0.0100\n",
-      "Epoch 25/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33544.6875 - val_loss: 33928.1797 - learning_rate: 0.0050\n",
-      "Epoch 26/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33771.6953 - val_loss: 33821.8477 - learning_rate: 0.0050\n",
-      "Epoch 27/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33924.9180 - val_loss: 34323.6172 - learning_rate: 0.0050\n",
-      "Epoch 28/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33958.8164 - val_loss: 34140.2734 - learning_rate: 0.0050\n",
-      "Epoch 29/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33894.4922 - val_loss: 34274.8594 - learning_rate: 0.0050\n",
-      "Epoch 30/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33723.2344 - val_loss: 33888.4805 - learning_rate: 0.0050\n",
-      "Epoch 31/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33885.2227 - val_loss: 33869.6562 - learning_rate: 0.0050\n",
-      "Epoch 32/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 34060.3008 - val_loss: 33878.7148 - learning_rate: 0.0050\n",
-      "Epoch 33/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 34327.5391 - val_loss: 33762.0625 - learning_rate: 0.0050\n",
-      "Epoch 34/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33568.0938 - val_loss: 34210.9141 - learning_rate: 0.0050\n",
-      "Epoch 35/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33727.0508 - val_loss: 33751.3281 - learning_rate: 0.0050\n",
-      "Epoch 36/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33771.7031 - val_loss: 33965.0039 - learning_rate: 0.0050\n",
-      "Epoch 37/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33964.7695 - val_loss: 33832.8203 - learning_rate: 0.0050\n",
-      "Epoch 38/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 34150.8867 - val_loss: 34091.4922 - learning_rate: 0.0050\n",
-      "Epoch 39/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33593.7188 - val_loss: 34540.5508 - learning_rate: 0.0050\n",
-      "Epoch 40/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33906.3555 - val_loss: 34111.7891 - learning_rate: 0.0050\n",
-      "Epoch 41/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33391.0352 - val_loss: 33860.7344 - learning_rate: 0.0050\n",
-      "Epoch 42/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 34259.7500 - val_loss: 33854.7461 - learning_rate: 0.0050\n",
-      "Epoch 43/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33463.6719 - val_loss: 34166.4844 - learning_rate: 0.0050\n",
-      "Epoch 44/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33517.0430 - val_loss: 34112.4414 - learning_rate: 0.0050\n",
-      "Epoch 45/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33642.1719 - val_loss: 34031.5859 - learning_rate: 0.0050\n",
-      "Epoch 46/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33690.7656 - val_loss: 33767.1367 - learning_rate: 0.0025\n",
-      "Epoch 47/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33262.6562 - val_loss: 33688.1719 - learning_rate: 0.0025\n",
-      "Epoch 48/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33944.3633 - val_loss: 33612.6406 - learning_rate: 0.0025\n",
-      "Epoch 49/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33634.7305 - val_loss: 33745.3945 - learning_rate: 0.0025\n",
-      "Epoch 50/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33350.8828 - val_loss: 33858.0273 - learning_rate: 0.0025\n",
-      "Epoch 51/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33282.8203 - val_loss: 33727.8164 - learning_rate: 0.0025\n",
-      "Epoch 52/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33856.1602 - val_loss: 33983.8125 - learning_rate: 0.0025\n",
-      "Epoch 53/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33651.9414 - val_loss: 33622.9805 - learning_rate: 0.0025\n",
-      "Epoch 54/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33286.1445 - val_loss: 33696.3398 - learning_rate: 0.0025\n",
-      "Epoch 55/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33492.6953 - val_loss: 33537.8438 - learning_rate: 0.0025\n",
-      "Epoch 56/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33178.3984 - val_loss: 33541.1992 - learning_rate: 0.0025\n",
-      "Epoch 57/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33673.2109 - val_loss: 33609.8789 - learning_rate: 0.0025\n",
-      "Epoch 58/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33597.1719 - val_loss: 33542.6367 - learning_rate: 0.0025\n",
-      "Epoch 59/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33018.9141 - val_loss: 33608.0078 - learning_rate: 0.0025\n",
-      "Epoch 60/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33593.4336 - val_loss: 33478.7383 - learning_rate: 0.0025\n",
-      "Epoch 61/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32938.0469 - val_loss: 33784.8398 - learning_rate: 0.0025\n",
-      "Epoch 62/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m42s\u001b[0m 5ms/step - loss: 33596.8594 - val_loss: 33841.3711 - learning_rate: 0.0025\n",
-      "Epoch 63/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33215.6211 - val_loss: 33560.5391 - learning_rate: 0.0025\n",
-      "Epoch 64/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33557.8984 - val_loss: 33598.9453 - learning_rate: 0.0025\n",
-      "Epoch 65/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33424.1133 - val_loss: 33639.1953 - learning_rate: 0.0025\n",
-      "Epoch 66/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33012.9648 - val_loss: 33906.1836 - learning_rate: 0.0025\n",
-      "Epoch 67/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33923.0156 - val_loss: 33608.1055 - learning_rate: 0.0025\n",
-      "Epoch 68/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33610.2344 - val_loss: 33556.6445 - learning_rate: 0.0025\n",
-      "Epoch 69/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33384.9883 - val_loss: 33674.7695 - learning_rate: 0.0025\n",
-      "Epoch 70/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33937.7695 - val_loss: 33738.3320 - learning_rate: 0.0025\n",
-      "Epoch 71/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33179.4492 - val_loss: 33689.6641 - learning_rate: 0.0012\n",
-      "Epoch 72/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33181.0977 - val_loss: 33525.1055 - learning_rate: 0.0012\n",
-      "Epoch 73/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33615.5664 - val_loss: 33571.4805 - learning_rate: 0.0012\n",
-      "Epoch 74/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33292.7188 - val_loss: 33918.6016 - learning_rate: 0.0012\n",
-      "Epoch 75/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33180.5625 - val_loss: 33696.8945 - learning_rate: 0.0012\n",
-      "Epoch 76/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32773.7305 - val_loss: 33877.0195 - learning_rate: 0.0012\n",
-      "Epoch 77/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33318.8242 - val_loss: 33588.5391 - learning_rate: 0.0012\n",
-      "Epoch 78/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33288.7734 - val_loss: 33465.4102 - learning_rate: 0.0012\n",
-      "Epoch 79/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32922.1797 - val_loss: 33718.8984 - learning_rate: 0.0012\n",
-      "Epoch 80/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33748.3906 - val_loss: 33567.1055 - learning_rate: 0.0012\n",
-      "Epoch 81/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32811.1562 - val_loss: 33615.7227 - learning_rate: 0.0012\n",
-      "Epoch 82/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33156.9648 - val_loss: 33892.0898 - learning_rate: 0.0012\n",
-      "Epoch 83/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 34252.1250 - val_loss: 33498.9414 - learning_rate: 0.0012\n",
-      "Epoch 84/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33416.5820 - val_loss: 33758.7305 - learning_rate: 0.0012\n",
-      "Epoch 85/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33532.7969 - val_loss: 33705.8984 - learning_rate: 0.0012\n",
-      "Epoch 86/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32990.3125 - val_loss: 33515.5898 - learning_rate: 0.0012\n",
-      "Epoch 87/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32907.4492 - val_loss: 33508.6250 - learning_rate: 0.0012\n",
-      "Epoch 88/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33199.5469 - val_loss: 33593.6211 - learning_rate: 0.0012\n",
-      "Epoch 89/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33098.9023 - val_loss: 33504.3633 - learning_rate: 6.2500e-04\n",
-      "Epoch 90/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32968.3477 - val_loss: 33568.6445 - learning_rate: 6.2500e-04\n",
-      "Epoch 91/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32807.5508 - val_loss: 33471.6797 - learning_rate: 6.2500e-04\n",
-      "Epoch 92/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33213.5000 - val_loss: 33533.3320 - learning_rate: 6.2500e-04\n",
-      "Epoch 93/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33175.8789 - val_loss: 33490.4805 - learning_rate: 6.2500e-04\n",
-      "Epoch 94/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33252.1875 - val_loss: 33510.8555 - learning_rate: 6.2500e-04\n",
-      "Epoch 95/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33451.0859 - val_loss: 33460.7266 - learning_rate: 6.2500e-04\n",
-      "Epoch 96/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32678.3691 - val_loss: 33469.9531 - learning_rate: 6.2500e-04\n",
-      "Epoch 97/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33167.3789 - val_loss: 33515.5859 - learning_rate: 6.2500e-04\n",
-      "Epoch 98/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33161.6953 - val_loss: 33456.2266 - learning_rate: 6.2500e-04\n",
-      "Epoch 99/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33485.6016 - val_loss: 33506.6328 - learning_rate: 6.2500e-04\n",
-      "Epoch 100/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33095.0820 - val_loss: 33578.3516 - learning_rate: 6.2500e-04\n",
-      "Epoch 101/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33063.7031 - val_loss: 33584.5312 - learning_rate: 6.2500e-04\n",
-      "Epoch 102/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33582.5742 - val_loss: 33486.6250 - learning_rate: 6.2500e-04\n",
-      "Epoch 103/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33411.4727 - val_loss: 33508.7891 - learning_rate: 6.2500e-04\n",
-      "Epoch 104/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32751.5156 - val_loss: 33481.1836 - learning_rate: 6.2500e-04\n",
-      "Epoch 105/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32662.9355 - val_loss: 33499.4648 - learning_rate: 6.2500e-04\n",
-      "Epoch 106/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32783.9453 - val_loss: 33470.0117 - learning_rate: 6.2500e-04\n",
-      "Epoch 107/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33338.1172 - val_loss: 33551.6367 - learning_rate: 6.2500e-04\n",
-      "Epoch 108/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32903.9062 - val_loss: 33715.9414 - learning_rate: 6.2500e-04\n",
-      "Epoch 109/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33308.2578 - val_loss: 33441.1016 - learning_rate: 3.1250e-04\n",
-      "Epoch 110/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33232.0430 - val_loss: 33448.9102 - learning_rate: 3.1250e-04\n",
-      "Epoch 111/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33287.5625 - val_loss: 33421.8008 - learning_rate: 3.1250e-04\n",
-      "Epoch 112/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33895.2266 - val_loss: 33427.7812 - learning_rate: 3.1250e-04\n",
-      "Epoch 113/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33289.4453 - val_loss: 33438.4531 - learning_rate: 3.1250e-04\n",
-      "Epoch 114/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32967.2695 - val_loss: 33433.2305 - learning_rate: 3.1250e-04\n",
-      "Epoch 115/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33130.7695 - val_loss: 33480.2852 - learning_rate: 3.1250e-04\n",
-      "Epoch 116/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33342.1641 - val_loss: 33438.8828 - learning_rate: 3.1250e-04\n",
-      "Epoch 117/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32778.9727 - val_loss: 33454.2539 - learning_rate: 3.1250e-04\n",
-      "Epoch 118/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33268.7969 - val_loss: 33477.3867 - learning_rate: 3.1250e-04\n",
-      "Epoch 119/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33074.6445 - val_loss: 33460.5469 - learning_rate: 3.1250e-04\n",
-      "Epoch 120/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33658.2266 - val_loss: 33482.6211 - learning_rate: 3.1250e-04\n",
-      "Epoch 121/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33447.2109 - val_loss: 33430.6680 - learning_rate: 3.1250e-04\n",
-      "Epoch 122/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32823.6406 - val_loss: 33475.0312 - learning_rate: 1.5625e-04\n",
-      "Epoch 123/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33130.3008 - val_loss: 33483.5273 - learning_rate: 1.5625e-04\n",
-      "Epoch 124/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32936.4023 - val_loss: 33430.1836 - learning_rate: 1.5625e-04\n",
-      "Epoch 125/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32701.8711 - val_loss: 33427.1211 - learning_rate: 1.5625e-04\n",
-      "Epoch 126/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33455.7500 - val_loss: 33451.2266 - learning_rate: 1.5625e-04\n",
-      "Epoch 127/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33057.0859 - val_loss: 33417.3242 - learning_rate: 1.5625e-04\n",
-      "Epoch 128/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32841.3906 - val_loss: 33450.1211 - learning_rate: 1.5625e-04\n",
-      "Epoch 129/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33246.7461 - val_loss: 33447.0547 - learning_rate: 1.5625e-04\n",
-      "Epoch 130/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32583.2070 - val_loss: 33439.3281 - learning_rate: 1.5625e-04\n",
-      "Epoch 131/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33589.1406 - val_loss: 33456.7188 - learning_rate: 1.5625e-04\n",
-      "Epoch 132/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33292.3438 - val_loss: 33506.7617 - learning_rate: 1.5625e-04\n",
-      "Epoch 133/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33491.1094 - val_loss: 33450.3672 - learning_rate: 1.5625e-04\n",
-      "Epoch 134/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33155.0586 - val_loss: 33419.3438 - learning_rate: 1.5625e-04\n",
-      "Epoch 135/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33314.2656 - val_loss: 33430.3789 - learning_rate: 1.5625e-04\n",
-      "Epoch 136/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33456.1016 - val_loss: 33425.3516 - learning_rate: 1.5625e-04\n",
-      "Epoch 137/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m31s\u001b[0m 6ms/step - loss: 32809.5977 - val_loss: 33435.2188 - learning_rate: 1.5625e-04\n",
-      "Epoch 138/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33109.1562 - val_loss: 33429.4766 - learning_rate: 7.8125e-05\n",
-      "Epoch 139/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m33s\u001b[0m 6ms/step - loss: 33076.6758 - val_loss: 33438.1016 - learning_rate: 7.8125e-05\n",
-      "Epoch 140/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33348.5625 - val_loss: 33449.9297 - learning_rate: 7.8125e-05\n",
-      "Epoch 141/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33040.4609 - val_loss: 33447.3281 - learning_rate: 7.8125e-05\n",
-      "Epoch 142/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33519.1797 - val_loss: 33421.7031 - learning_rate: 7.8125e-05\n",
-      "Epoch 143/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33191.7188 - val_loss: 33473.7148 - learning_rate: 7.8125e-05\n",
-      "Epoch 144/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33052.9727 - val_loss: 33447.4922 - learning_rate: 7.8125e-05\n",
-      "Epoch 145/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33185.4180 - val_loss: 33450.9492 - learning_rate: 7.8125e-05\n",
-      "Epoch 146/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33237.1719 - val_loss: 33436.8164 - learning_rate: 7.8125e-05\n",
-      "Epoch 147/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33298.0703 - val_loss: 33427.6953 - learning_rate: 7.8125e-05\n",
-      "Epoch 148/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32902.0039 - val_loss: 33425.9727 - learning_rate: 3.9062e-05\n",
-      "Epoch 149/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33320.6250 - val_loss: 33424.5273 - learning_rate: 3.9062e-05\n",
-      "Epoch 150/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33320.8125 - val_loss: 33422.3789 - learning_rate: 3.9062e-05\n",
-      "Epoch 151/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33415.1484 - val_loss: 33438.2422 - learning_rate: 3.9062e-05\n",
-      "Epoch 152/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33095.1562 - val_loss: 33437.1055 - learning_rate: 3.9062e-05\n",
-      "Epoch 153/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33359.0352 - val_loss: 33425.4609 - learning_rate: 3.9062e-05\n",
-      "Epoch 154/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33172.1211 - val_loss: 33433.5234 - learning_rate: 3.9062e-05\n",
-      "Epoch 155/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33063.3984 - val_loss: 33426.8750 - learning_rate: 3.9062e-05\n",
-      "Epoch 156/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33023.6523 - val_loss: 33430.3789 - learning_rate: 3.9062e-05\n",
-      "Epoch 157/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33474.4297 - val_loss: 33425.4844 - learning_rate: 3.9062e-05\n",
-      "Epoch 158/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32827.1562 - val_loss: 33425.2344 - learning_rate: 1.9531e-05\n",
-      "Epoch 159/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33322.2891 - val_loss: 33423.2148 - learning_rate: 1.9531e-05\n",
-      "Epoch 160/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33272.1016 - val_loss: 33422.2109 - learning_rate: 1.9531e-05\n",
-      "Epoch 161/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32617.4844 - val_loss: 33428.2695 - learning_rate: 1.9531e-05\n",
-      "Epoch 162/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33133.9453 - val_loss: 33427.8242 - learning_rate: 1.9531e-05\n",
-      "Epoch 163/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33516.5742 - val_loss: 33435.0430 - learning_rate: 1.9531e-05\n",
-      "Epoch 164/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33100.4766 - val_loss: 33428.6523 - learning_rate: 1.9531e-05\n",
-      "Epoch 165/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m31s\u001b[0m 6ms/step - loss: 32875.7305 - val_loss: 33430.2812 - learning_rate: 1.9531e-05\n",
-      "Epoch 166/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33020.5625 - val_loss: 33432.0273 - learning_rate: 1.9531e-05\n",
-      "Epoch 167/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32839.1133 - val_loss: 33434.2109 - learning_rate: 1.9531e-05\n",
-      "Epoch 168/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m33s\u001b[0m 6ms/step - loss: 32943.8477 - val_loss: 33430.8555 - learning_rate: 9.7656e-06\n",
-      "Epoch 169/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 32722.8633 - val_loss: 33429.7578 - learning_rate: 9.7656e-06\n",
-      "Epoch 170/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m33s\u001b[0m 6ms/step - loss: 33142.6289 - val_loss: 33427.8086 - learning_rate: 9.7656e-06\n",
-      "Epoch 171/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m31s\u001b[0m 6ms/step - loss: 33183.2188 - val_loss: 33428.5625 - learning_rate: 9.7656e-06\n",
-      "Epoch 172/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m33s\u001b[0m 6ms/step - loss: 33326.9531 - val_loss: 33427.5430 - learning_rate: 9.7656e-06\n",
-      "Epoch 173/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33134.1914 - val_loss: 33428.6602 - learning_rate: 9.7656e-06\n",
-      "Epoch 174/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33324.8711 - val_loss: 33426.7734 - learning_rate: 9.7656e-06\n",
-      "Epoch 175/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33542.4219 - val_loss: 33428.1445 - learning_rate: 9.7656e-06\n",
-      "Epoch 176/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33353.5625 - val_loss: 33427.3789 - learning_rate: 9.7656e-06\n",
-      "Epoch 177/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33121.0625 - val_loss: 33427.2773 - learning_rate: 9.7656e-06\n",
-      "Epoch 178/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 32985.8711 - val_loss: 33426.7461 - learning_rate: 4.8828e-06\n",
-      "Epoch 179/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32924.7266 - val_loss: 33426.5195 - learning_rate: 4.8828e-06\n",
-      "Epoch 180/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33525.5625 - val_loss: 33426.6875 - learning_rate: 4.8828e-06\n",
-      "Epoch 181/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33374.2617 - val_loss: 33427.2148 - learning_rate: 4.8828e-06\n",
-      "Epoch 182/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33675.0859 - val_loss: 33426.6289 - learning_rate: 4.8828e-06\n",
-      "Epoch 183/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32744.5977 - val_loss: 33427.5000 - learning_rate: 4.8828e-06\n",
-      "Epoch 184/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33113.8750 - val_loss: 33427.4102 - learning_rate: 4.8828e-06\n",
-      "Epoch 185/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 32821.9961 - val_loss: 33426.8359 - learning_rate: 4.8828e-06\n",
-      "Epoch 186/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m30s\u001b[0m 6ms/step - loss: 33300.7500 - val_loss: 33426.6680 - learning_rate: 4.8828e-06\n",
-      "Epoch 187/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33289.9453 - val_loss: 33427.2344 - learning_rate: 4.8828e-06\n",
-      "Epoch 188/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33014.6250 - val_loss: 33427.1367 - learning_rate: 2.4414e-06\n",
-      "Epoch 189/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32943.1992 - val_loss: 33426.8867 - learning_rate: 2.4414e-06\n",
-      "Epoch 190/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32877.4062 - val_loss: 33426.9609 - learning_rate: 2.4414e-06\n",
-      "Epoch 191/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33281.2383 - val_loss: 33427.1641 - learning_rate: 2.4414e-06\n",
-      "Epoch 192/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32952.1367 - val_loss: 33427.1836 - learning_rate: 2.4414e-06\n",
-      "Epoch 193/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32660.4414 - val_loss: 33427.4219 - learning_rate: 2.4414e-06\n",
-      "Epoch 194/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33286.1172 - val_loss: 33427.3203 - learning_rate: 2.4414e-06\n",
-      "Epoch 195/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32652.4922 - val_loss: 33427.4727 - learning_rate: 2.4414e-06\n",
-      "Epoch 196/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33102.7266 - val_loss: 33427.2734 - learning_rate: 2.4414e-06\n",
-      "Epoch 197/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32729.6289 - val_loss: 33426.8477 - learning_rate: 2.4414e-06\n",
-      "Epoch 198/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33122.9961 - val_loss: 33426.8203 - learning_rate: 1.2207e-06\n",
-      "Epoch 199/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32813.2500 - val_loss: 33426.7734 - learning_rate: 1.2207e-06\n",
-      "Epoch 200/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33284.0000 - val_loss: 33426.7578 - learning_rate: 1.2207e-06\n",
-      "Epoch 201/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33305.3359 - val_loss: 33426.7109 - learning_rate: 1.2207e-06\n",
-      "Epoch 202/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32943.3359 - val_loss: 33426.6641 - learning_rate: 1.2207e-06\n",
-      "Epoch 203/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32939.6367 - val_loss: 33426.7539 - learning_rate: 1.2207e-06\n",
-      "Epoch 204/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33458.9180 - val_loss: 33426.6641 - learning_rate: 1.2207e-06\n",
-      "Epoch 205/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33158.6133 - val_loss: 33426.6094 - learning_rate: 1.2207e-06\n",
-      "Epoch 206/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33089.8242 - val_loss: 33426.5703 - learning_rate: 1.2207e-06\n",
-      "Epoch 207/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32706.9805 - val_loss: 33426.5234 - learning_rate: 1.2207e-06\n",
-      "Epoch 208/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33154.0781 - val_loss: 33426.4688 - learning_rate: 6.1035e-07\n",
-      "Epoch 209/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32989.4609 - val_loss: 33426.4453 - learning_rate: 6.1035e-07\n",
-      "Epoch 210/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33282.8828 - val_loss: 33426.4648 - learning_rate: 6.1035e-07\n",
-      "Epoch 211/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33204.1641 - val_loss: 33426.4141 - learning_rate: 6.1035e-07\n",
-      "Epoch 212/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33415.2500 - val_loss: 33426.4609 - learning_rate: 6.1035e-07\n",
-      "Epoch 213/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33567.2656 - val_loss: 33426.5273 - learning_rate: 6.1035e-07\n",
-      "Epoch 214/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 32781.5977 - val_loss: 33426.4922 - learning_rate: 6.1035e-07\n",
-      "Epoch 215/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 33057.5391 - val_loss: 33426.4766 - learning_rate: 6.1035e-07\n",
-      "Epoch 216/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33007.3984 - val_loss: 33426.4609 - learning_rate: 6.1035e-07\n",
-      "Epoch 217/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33515.3398 - val_loss: 33426.4570 - learning_rate: 6.1035e-07\n",
-      "Epoch 218/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33452.9102 - val_loss: 33426.4648 - learning_rate: 3.0518e-07\n",
-      "Epoch 219/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m26s\u001b[0m 5ms/step - loss: 33303.5273 - val_loss: 33426.5000 - learning_rate: 3.0518e-07\n",
-      "Epoch 220/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33006.1836 - val_loss: 33426.5391 - learning_rate: 3.0518e-07\n",
-      "Epoch 221/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m28s\u001b[0m 5ms/step - loss: 32980.7188 - val_loss: 33426.5078 - learning_rate: 3.0518e-07\n",
-      "Epoch 222/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33330.4102 - val_loss: 33426.5156 - learning_rate: 3.0518e-07\n",
-      "Epoch 223/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m29s\u001b[0m 6ms/step - loss: 33320.9141 - val_loss: 33426.5352 - learning_rate: 3.0518e-07\n",
-      "Epoch 224/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33475.5312 - val_loss: 33426.5156 - learning_rate: 3.0518e-07\n",
-      "Epoch 225/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33443.4961 - val_loss: 33426.5352 - learning_rate: 3.0518e-07\n",
-      "Epoch 226/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 32801.0156 - val_loss: 33426.5430 - learning_rate: 3.0518e-07\n",
-      "Epoch 227/1000\n",
-      "\u001b[1m5178/5178\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m27s\u001b[0m 5ms/step - loss: 33563.2109 - val_loss: 33426.5547 - learning_rate: 3.0518e-07\n"
-     ]
-    }
-   ],
+   "outputs": [],
    "source": [
-    "history = model.fit(X_train, y_train, epochs=1000, verbose=1, validation_split=0.2, callbacks=[reduce_lr, early_stopping])"
+    "history = model.fit(X_train, y_train, epochs=1000, verbose=0, validation_split=0.2, callbacks=[reduce_lr])"
    ]
   },
   {
    "cell_type": "code",
    "execution_count": 22,
-   "id": "ec0d33a3",
+   "id": "4e812bfc",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T08:50:16.995946Z",
-     "iopub.status.busy": "2025-01-15T08:50:16.995544Z",
-     "iopub.status.idle": "2025-01-15T08:50:18.856314Z",
-     "shell.execute_reply": "2025-01-15T08:50:18.855082Z"
+     "iopub.execute_input": "2025-01-16T07:03:04.472504Z",
+     "iopub.status.busy": "2025-01-16T07:03:04.472111Z",
+     "iopub.status.idle": "2025-01-16T07:03:05.993431Z",
+     "shell.execute_reply": "2025-01-16T07:03:05.992182Z"
     },
     "papermill": {
-     "duration": 8.638752,
-     "end_time": "2025-01-15T08:50:18.857932",
+     "duration": 1.534005,
+     "end_time": "2025-01-16T07:03:05.995497",
      "exception": false,
-     "start_time": "2025-01-15T08:50:10.219180",
+     "start_time": "2025-01-16T07:03:04.461492",
      "status": "completed"
     },
     "tags": []
@@ -1943,7 +1476,7 @@
      "output_type": "stream",
      "text": [
       "\u001b[1m720/720\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m1s\u001b[0m 2ms/step\n",
-      "R² Score: 0.9302094959630826\n"
+      "R² Score: 0.9302573033224486\n"
      ]
     }
    ],
@@ -1959,19 +1492,19 @@
   {
    "cell_type": "code",
    "execution_count": 23,
-   "id": "734f24ae",
+   "id": "9562db79",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T08:50:32.347827Z",
-     "iopub.status.busy": "2025-01-15T08:50:32.347418Z",
-     "iopub.status.idle": "2025-01-15T08:50:32.653251Z",
-     "shell.execute_reply": "2025-01-15T08:50:32.652131Z"
+     "iopub.execute_input": "2025-01-16T07:03:06.017215Z",
+     "iopub.status.busy": "2025-01-16T07:03:06.016804Z",
+     "iopub.status.idle": "2025-01-16T07:03:06.282531Z",
+     "shell.execute_reply": "2025-01-16T07:03:06.281390Z"
     },
     "papermill": {
-     "duration": 7.071246,
-     "end_time": "2025-01-15T08:50:32.655381",
+     "duration": 0.278206,
+     "end_time": "2025-01-16T07:03:06.284214",
      "exception": false,
-     "start_time": "2025-01-15T08:50:25.584135",
+     "start_time": "2025-01-16T07:03:06.006008",
      "status": "completed"
     },
     "tags": []
@@ -1979,7 +1512,7 @@
    "outputs": [
     {
      "data": {
-      "image/png": "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\n",
+      "image/png": "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\n",
       "text/plain": [
        "<Figure size 640x480 with 1 Axes>"
       ]
@@ -2003,13 +1536,13 @@
   },
   {
    "cell_type": "markdown",
-   "id": "6308126f",
+   "id": "c3e44535",
    "metadata": {
     "papermill": {
-     "duration": 6.888864,
-     "end_time": "2025-01-15T08:50:46.153353",
+     "duration": 0.010112,
+     "end_time": "2025-01-16T07:03:06.305006",
      "exception": false,
-     "start_time": "2025-01-15T08:50:39.264489",
+     "start_time": "2025-01-16T07:03:06.294894",
      "status": "completed"
     },
     "tags": []
@@ -2021,19 +1554,19 @@
   {
    "cell_type": "code",
    "execution_count": 24,
-   "id": "5505165e",
+   "id": "812c9eb7",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T08:50:59.932093Z",
-     "iopub.status.busy": "2025-01-15T08:50:59.931668Z",
-     "iopub.status.idle": "2025-01-15T08:51:07.995737Z",
-     "shell.execute_reply": "2025-01-15T08:51:07.994497Z"
+     "iopub.execute_input": "2025-01-16T07:03:06.327995Z",
+     "iopub.status.busy": "2025-01-16T07:03:06.327640Z",
+     "iopub.status.idle": "2025-01-16T07:03:12.313132Z",
+     "shell.execute_reply": "2025-01-16T07:03:12.311865Z"
     },
     "papermill": {
-     "duration": 15.000539,
-     "end_time": "2025-01-15T08:51:07.997676",
+     "duration": 5.99949,
+     "end_time": "2025-01-16T07:03:12.315158",
      "exception": false,
-     "start_time": "2025-01-15T08:50:52.997137",
+     "start_time": "2025-01-16T07:03:06.315668",
      "status": "completed"
     },
     "tags": []
@@ -2043,7 +1576,7 @@
      "name": "stdout",
      "output_type": "stream",
      "text": [
-      "\u001b[1m3080/3080\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m6s\u001b[0m 2ms/step\n",
+      "\u001b[1m3080/3080\u001b[0m \u001b[32m━━━━━━━━━━━━━━━━━━━━\u001b[0m\u001b[37m\u001b[0m \u001b[1m5s\u001b[0m 1ms/step\n",
       "98550 98550\n"
      ]
     }
@@ -2058,19 +1591,19 @@
   {
    "cell_type": "code",
    "execution_count": 25,
-   "id": "b36e4412",
+   "id": "521c7fed",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T08:51:21.595411Z",
-     "iopub.status.busy": "2025-01-15T08:51:21.595028Z",
-     "iopub.status.idle": "2025-01-15T08:51:21.606437Z",
-     "shell.execute_reply": "2025-01-15T08:51:21.605422Z"
+     "iopub.execute_input": "2025-01-16T07:03:12.438075Z",
+     "iopub.status.busy": "2025-01-16T07:03:12.437737Z",
+     "iopub.status.idle": "2025-01-16T07:03:12.449377Z",
+     "shell.execute_reply": "2025-01-16T07:03:12.448158Z"
     },
     "papermill": {
-     "duration": 7.008676,
-     "end_time": "2025-01-15T08:51:21.608078",
+     "duration": 0.029487,
+     "end_time": "2025-01-16T07:03:12.450999",
      "exception": false,
-     "start_time": "2025-01-15T08:51:14.599402",
+     "start_time": "2025-01-16T07:03:12.421512",
      "status": "completed"
     },
     "tags": []
@@ -2105,27 +1638,27 @@
        "    <tr>\n",
        "      <th>0</th>\n",
        "      <td>230130</td>\n",
-       "      <td>712.0</td>\n",
+       "      <td>714.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
        "      <td>230131</td>\n",
-       "      <td>712.0</td>\n",
+       "      <td>719.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
        "      <td>230132</td>\n",
-       "      <td>588.0</td>\n",
+       "      <td>589.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>3</th>\n",
        "      <td>230133</td>\n",
-       "      <td>324.0</td>\n",
+       "      <td>323.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>4</th>\n",
        "      <td>230134</td>\n",
-       "      <td>381.0</td>\n",
+       "      <td>380.0</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -2133,11 +1666,11 @@
       ],
       "text/plain": [
        "       id  num_sold\n",
-       "0  230130     712.0\n",
-       "1  230131     712.0\n",
-       "2  230132     588.0\n",
-       "3  230133     324.0\n",
-       "4  230134     381.0"
+       "0  230130     714.0\n",
+       "1  230131     719.0\n",
+       "2  230132     589.0\n",
+       "3  230133     323.0\n",
+       "4  230134     380.0"
       ]
      },
      "execution_count": 25,
@@ -2156,19 +1689,19 @@
   {
    "cell_type": "code",
    "execution_count": 26,
-   "id": "96b0cebc",
+   "id": "fccef5da",
    "metadata": {
     "execution": {
-     "iopub.execute_input": "2025-01-15T08:51:35.405284Z",
-     "iopub.status.busy": "2025-01-15T08:51:35.404841Z",
-     "iopub.status.idle": "2025-01-15T08:51:35.604971Z",
-     "shell.execute_reply": "2025-01-15T08:51:35.603726Z"
+     "iopub.execute_input": "2025-01-16T07:03:12.484158Z",
+     "iopub.status.busy": "2025-01-16T07:03:12.483811Z",
+     "iopub.status.idle": "2025-01-16T07:03:12.680356Z",
+     "shell.execute_reply": "2025-01-16T07:03:12.679095Z"
     },
     "papermill": {
-     "duration": 7.175524,
-     "end_time": "2025-01-15T08:51:35.606749",
+     "duration": 0.214852,
+     "end_time": "2025-01-16T07:03:12.682184",
      "exception": false,
-     "start_time": "2025-01-15T08:51:28.431225",
+     "start_time": "2025-01-16T07:03:12.467332",
      "status": "completed"
     },
     "tags": []
@@ -2203,27 +1736,27 @@
        "    <tr>\n",
        "      <th>0</th>\n",
        "      <td>230130</td>\n",
-       "      <td>712.0</td>\n",
+       "      <td>714.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>1</th>\n",
        "      <td>230131</td>\n",
-       "      <td>712.0</td>\n",
+       "      <td>719.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>2</th>\n",
        "      <td>230132</td>\n",
-       "      <td>588.0</td>\n",
+       "      <td>589.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>3</th>\n",
        "      <td>230133</td>\n",
-       "      <td>324.0</td>\n",
+       "      <td>323.0</td>\n",
        "    </tr>\n",
        "    <tr>\n",
        "      <th>4</th>\n",
        "      <td>230134</td>\n",
-       "      <td>381.0</td>\n",
+       "      <td>380.0</td>\n",
        "    </tr>\n",
        "  </tbody>\n",
        "</table>\n",
@@ -2231,11 +1764,11 @@
       ],
       "text/plain": [
        "       id  num_sold\n",
-       "0  230130     712.0\n",
-       "1  230131     712.0\n",
-       "2  230132     588.0\n",
-       "3  230133     324.0\n",
-       "4  230134     381.0"
+       "0  230130     714.0\n",
+       "1  230131     719.0\n",
+       "2  230132     589.0\n",
+       "3  230133     323.0\n",
+       "4  230134     380.0"
       ]
      },
      "execution_count": 26,
@@ -2253,13 +1786,13 @@
   {
    "cell_type": "code",
    "execution_count": null,
-   "id": "c4c0ad6e",
+   "id": "093c03a4",
    "metadata": {
     "papermill": {
-     "duration": 6.8904,
-     "end_time": "2025-01-15T08:51:49.472744",
+     "duration": 0.015453,
+     "end_time": "2025-01-16T07:03:12.713667",
      "exception": false,
-     "start_time": "2025-01-15T08:51:42.582344",
+     "start_time": "2025-01-16T07:03:12.698214",
      "status": "completed"
     },
     "tags": []
@@ -2303,14 +1836,14 @@
   },
   "papermill": {
    "default_parameters": {},
-   "duration": 6487.444732,
-   "end_time": "2025-01-15T08:51:58.233042",
+   "duration": 18711.354581,
+   "end_time": "2025-01-16T07:03:15.196853",
    "environment_variables": {},
    "exception": null,
    "input_path": "__notebook__.ipynb",
    "output_path": "__notebook__.ipynb",
    "parameters": {},
-   "start_time": "2025-01-15T07:03:50.788310",
+   "start_time": "2025-01-16T01:51:23.842272",
    "version": "2.6.0"
   }
  },
